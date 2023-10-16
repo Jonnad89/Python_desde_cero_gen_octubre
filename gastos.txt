@@ -1,0 +1,3 @@
+16-10-2023,pan, leche, galletas,2.7558457
+16-10-2023,tomate, papas, lechua,naranjas,9.685475
+10-16-2023,tablet, mouse, parlantes, auriculares,45.265
